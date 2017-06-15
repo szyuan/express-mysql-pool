@@ -1,0 +1,26 @@
+{
+  "name": "express-mysql-pool",
+  "version": "1.0.0",
+  "description": "express-mysql-connection middleware (pooling connection)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szYuan/express-mysql-pool.git"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "connection",
+    "middleware",
+    "pool"
+  ],
+  "author": "szy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szYuan/express-mysql-pool/issues"
+  },
+  "homepage": "https://github.com/szYuan/express-mysql-pool#readme"
+}
