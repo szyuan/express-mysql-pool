@@ -1,5 +1,5 @@
 # express-mysql-pool
-============
+
 express middleware for mysql pooling connection
 一个能让你更方便连接并操作mysql的express中间件。只使用连接池模式连接mysql，并将连接挂载到request对象上。
 （更多数据库连接方式可使用 [express-mysql-connection](https://github.com/szYuan/express-mysql-connection) ）
