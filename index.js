@@ -1,1 +1,1 @@
-module.exports = require('./lib/express-mysql-connection.js');
+module.exports = require('./lib/express-mysql-pool.js');
