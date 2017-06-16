@@ -1,6 +1,6 @@
 {
   "name": "express-mysql-pool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "express-mysql-connection middleware (pooling connection)",
   "main": "index.js",
   "scripts": {
